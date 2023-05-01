@@ -4,6 +4,32 @@
   
   
   <entry>
+    <title>python循环</title>
+    <link href="/2023/04/30/python-for-while/"/>
+    <url>/2023/04/30/python-for-while/</url>
+    
+    <content type="html"><![CDATA[<h1 id="for"><a href="#for" class="headerlink" title="for"></a>for</h1><p>语法：</p><figure class="highlight nginx"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs nginx"><span class="hljs-attribute">for</span> 变量 in 遍历结构<br>命令<br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>python判定</title>
+    <link href="/2023/04/30/python-if/"/>
+    <url>/2023/04/30/python-if/</url>
+    
+    <content type="html"><![CDATA[<h1 id="if"><a href="#if" class="headerlink" title="if"></a>if</h1><h2 id="单分支（if）"><a href="#单分支（if）" class="headerlink" title="单分支（if）"></a>单分支（if）</h2><p>语法：</p><figure class="highlight makefile"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs makefile"><span class="hljs-section">if+条件表达式:</span><br>    执行的命令<br></code></pre></td></tr></table></figure><p>举例：</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs python"><span class="hljs-keyword">if</span> a&gt;=<span class="hljs-number">0</span>:<br>    <span class="hljs-built_in">print</span> (a)<br></code></pre></td></tr></table></figure><p>释义：如果变量a&gt;=0，就执行“print (a)”，反之则继续向下执行</p><h2 id="双分支（if…else…）"><a href="#双分支（if…else…）" class="headerlink" title="双分支（if…else…）"></a>双分支（if…else…）</h2><p>语法：</p><figure class="highlight makefile"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs makefile"><span class="hljs-section">if+条件表达式:</span><br>    执行的命令<br><span class="hljs-section">else:</span><br>    执行的命令<br></code></pre></td></tr></table></figure><p>举例：</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs python"><span class="hljs-keyword">if</span> a&gt;=<span class="hljs-number">0</span>:<br>    <span class="hljs-built_in">print</span> (a)<br><span class="hljs-keyword">else</span>:<br>    <span class="hljs-built_in">print</span> (-a)<br></code></pre></td></tr></table></figure><p>释义：如果变量a&gt;=0，就执行“print (a)”，反之则执行“print (-a)”</p><h2 id="多分支（if…elif…else…）"><a href="#多分支（if…elif…else…）" class="headerlink" title="多分支（if…elif…else…）"></a>多分支（if…elif…else…）</h2><p>语法：</p><figure class="highlight makefile"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><code class="hljs makefile"><span class="hljs-section">if+条件表达式:</span><br>    执行的命令<br><span class="hljs-section">elif+条件表达式:</span><br>    执行的命令<br><span class="hljs-section">elif+条件表达式:</span><br>    执行的命令<br><span class="hljs-section">else:</span><br>    执行的命令<br></code></pre></td></tr></table></figure><p>举例：</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><code class="hljs python"><span class="hljs-keyword">if</span> a&gt;<span class="hljs-number">0</span>:<br>    <span class="hljs-built_in">print</span> (<span class="hljs-string">&quot;a是正数&quot;</span>)<br><span class="hljs-keyword">elif</span> a=<span class="hljs-number">0</span>:<br>    <span class="hljs-built_in">print</span> (<span class="hljs-string">&quot;a是0&quot;</span>)<br><span class="hljs-keyword">elif</span> a&lt;<span class="hljs-number">0</span>:<br>    <span class="hljs-built_in">print</span> (<span class="hljs-string">&quot;a是负数&quot;</span>)<br><span class="hljs-keyword">else</span>:<br>    <span class="hljs-built_in">print</span> (<span class="hljs-string">&quot;a不是数&quot;</span>)<br></code></pre></td></tr></table></figure><p>释义：</p><p>如果变量a大于0，则执行“print (“a是正数”)”；</p><p>如果变量a等于0，则执行“print (“a是0”)”；</p><p>如果变量a小于0，则执行“print (“a是负数”)”；</p><p>否则执行“print (“a不是数”)”</p><h1 id="逻辑运算符"><a href="#逻辑运算符" class="headerlink" title="逻辑运算符"></a>逻辑运算符</h1><p>and：同时满足判定</p><p>or：有一个或多个满足判定</p><p>not：不满足判定</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>python基本</title>
     <link href="/2023/04/30/python-basic/"/>
     <url>/2023/04/30/python-basic/</url>
