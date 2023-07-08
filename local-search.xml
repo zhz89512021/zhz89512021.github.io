@@ -3,30 +3,37 @@
   
   
   
+  
   <entry>
-    <title>新坑</title>
-    <link href="/2023/06/17/btmh1/"/>
-    <url>/2023/06/17/btmh1/</url>
+    <title>刘子傲的劲爆跳舞视频</title>
+    <link href="/"/>
+    <url>/</url>
     
-    <content type="html"><![CDATA[<p>Please wait for 114514 days.</p>]]></content>
-    
-    
+    <content type="html"><![CDATA[<p><video src="https://pan.whatsblog.site/api/v3/file/source/282/oA0DAFjnON2ARbKxAN2VUnZNCVM938.mp4?sign=uuF9NCKzEts8xaKsS_HxEKsoOz5AIn3F2_QdTjUjPVY%3D%3A0" position= "absolute" width="100%" height="100%" controls="controls"></video></p>]]></content>
     
   </entry>
   
   
   
   <entry>
-    <title>Hello World</title>
-    <link href="/2023/04/30/hello-world/"/>
-    <url>/2023/04/30/hello-world/</url>
+    <title>标题</title>
+    <link href="/"/>
+    <url>/</url>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
+    <content type="html"><![CDATA[]]></content>
     
   </entry>
   
+  
+  
+  <entry>
+    <title>荣耀9i解锁Bootloader</title>
+    <link href="/"/>
+    <url>/</url>
+    
+    <content type="html"><![CDATA[<p>本文仅适用于解除荣耀9i手机（LLD-AL20或LLD-AL30）的bl锁，不适用于其他机型。</p><h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><p>1.解锁bootloader是高风险操作，本人不承担由此导致的任何后果。</p><p>2.降级和解锁均会清除所有数据，且无法恢复。刷机前请先备份数据，并确认备份的数据是否完好。</p><p>3.解锁前请先关闭查找手机，退出华为账号并删除指纹和锁屏密码。如果设备有账号锁，请先通过合法的手段解除。</p><p>如果有闹铃，请关闭并删除闹铃。</p><h1 id="方法"><a href="#方法" class="headerlink" title="方法"></a>方法</h1><p>1.拆机短接，参考<a href="https://zhuanlan.zhihu.com/p/397173427">部分华为麒麟手动获取BL解锁码</a></p><p>2.降级并使用octoplus读码</p><p>下面主要讲如何降级读码</p><h1 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h1><h2 id="1-获取octoplus加密狗"><a href="#1-获取octoplus加密狗" class="headerlink" title="1.获取octoplus加密狗"></a>1.获取octoplus加密狗</h2><p>有三种方法：直接买，找大佬借，以及到淘宝/闲鱼租</p><p>如果你是土豪，不嫌贵，可以直接买</p><p>不想花钱也可以找大佬借</p><p>到淘宝/闲鱼租也不贵，一般2-5元就能搞定，一小时就能解决</p><p>（华为手机助手降级时不需要使用oc加密狗。请在需要使用octoplus时再租，以免造成浪费）</p><h2 id="2-确认系统版本"><a href="#2-确认系统版本" class="headerlink" title="2.确认系统版本"></a>2.确认系统版本</h2><p>打开手机设置，查看“EMUI版本”</p><p>若版本高于8.0.0.139，则需先华为手机助手降级，再oc线刷降级，再读码</p><p>若版本高于8.0.0.100低于8.0.0.139，则需先oc线刷降级，再读码</p><p>若版本为8.0.0.100，直接读码即可</p><h2 id="3-使用华为手机助手降级"><a href="#3-使用华为手机助手降级" class="headerlink" title="3.使用华为手机助手降级"></a>3.使用华为手机助手降级</h2><p><a href="https://consumer.huawei.com/cn/support/hisuite/">华为手机助手下载</a></p><p>用数据线连接手机，打开华为手机助手</p><p>首先关闭“设备连接时启动”</p><p><img src="image.png" alt="关闭“设备连接时启动”"></p><p>点击“系统更新”，按提示降级即可</p><p><img src="image-1.png" alt="点击“系统更新”，按提示降级即可"></p><h2 id="4-使用octoplus线刷降级"><a href="#4-使用octoplus线刷降级" class="headerlink" title="4.使用octoplus线刷降级"></a>4.使用octoplus线刷降级</h2><p>下载文末链接里的内容</p><p>解压荣耀9i LLD-AL20，30 8.0.0.139降级读码方案（2021.5.20）.7z到一个文件夹里</p><p>安装所有软件<br>手机进入线刷升级模式，方法：将手机完全关机，取下SIM卡和SD卡。</p><p>先按住音量上下键，再插入和电脑相连的数据线，手机会自动启动并进入线刷升级模式，此时松开音量键</p><p>连接好手机和加密狗，打开octoplus</p><p><img src="image-2.png"></p><p>点击 manual select</p><p><img src="image-3.png"></p><p>型号选择LLD-AL30，如果没有就选择LLD-AL20</p><p><img src="image-4.png"></p><p>点击右上角的Write Firmware</p><p><img src="image-5.png"></p><p>勾选Update Cust，点右面三个点，打开解压的第一个文件夹，按型号选择刷机包</p><p><img src="image-6.png"></p><p>取消勾选userdata，点击下面的White Firmware，等待刷入完成</p><p>刷入完成后，若询问是否重启，选择“No”即可</p><p><img src="image-7.png"></p><p>取消勾选Update Cust，勾选Update Base，点右面三个点，打开解压的第二个文件夹，选择刷机包，点击下面的White Firmware，等待刷入完成</p><p>刷入完成后，若询问是否重启，选择“No”即可</p><p><img src="image-8.png"></p><p>取消勾选Update Base，勾选Update Cust，点右面三个点，打开解压的第三个文件夹，按型号选择刷机包，点击下面的White Firmware，等待刷入完成</p><p>三个包全部刷入完成后，拔掉数据线，长按电源键强制重启</p><p>至此，降级完成，设备开机后，请确认设备的系统版本为8.0.0.100</p><h2 id="5-octoplus开机读码"><a href="#5-octoplus开机读码" class="headerlink" title="5.octoplus开机读码"></a>5.octoplus开机读码</h2><p>设备开机后，确认设备的系统版本为8.0.0.100</p><p>打开拨号，输入* # * # 2846579 # * # *</p><p>点击“后台设置”，用数据线连接手机，然后后台模式选择生产模式</p><p><img src="image-9.png"></p><p>勾掉manual select，点击auto detect，等待完成</p><p>然后点右面的Read Bootloader Code</p><p>留意左边的日志信息，如果成功，解锁码就会在日志中显示</p><p>至此，读码成功！</p><h1 id="解锁"><a href="#解锁" class="headerlink" title="解锁"></a>解锁</h1><figure class="highlight cmd"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs cmd">fastboot oem unlock &lt;十六位解锁码&gt;<br></code></pre></td></tr></table></figure><p>至此，设备已经解锁，重启后会进行低级格式化操作，手机所有数据都会丢失，且无法恢复。</p><h1 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h1><p>因为某些因素，降级解锁时的很多图片已经丢失。如果有什么疑惑的地方，可以直接在酷安私信我寻求帮助。</p><p>因本人马上高中开学，可能两个星期才有机会看一次，回复不会很及时，请见谅。</p><p>这篇文章的降级解锁方法以及文件来自@某贼 大佬以及萤火虫资源站，感谢大佬们的辛勤付出。</p><p>下载：<a href="http://cn-yw-plc-1.openfrp.top:28171/">http://cn-yw-plc-1.openfrp.top:28171</a></p>]]></content>
+    
+  </entry>
   
   
   
